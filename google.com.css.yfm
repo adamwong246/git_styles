@@ -1,0 +1,7 @@
+---
+replace_all: true
+---
+
+p {
+  background-color: red;
+}
